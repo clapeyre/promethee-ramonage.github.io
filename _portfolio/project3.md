@@ -1,18 +1,18 @@
 ---
 title: Insert
 subtitle: 
-image: assets/img/portfolio/insert_3.webp
+image: assets/img/portfolio/poele_1.webp
 alt: Insert
 
 caption:
   title: Insert
   subtitle: 
-  thumbnail: assets/img/portfolio/insert_3.webp
+  thumbnail: assets/img/portfolio/poele_1_th.jpg
 ---
-Une réalisation ...
+Un poêle à granulés réalisé ...
 
 {:.list-inline}
-- Date: Janvier 2017
+- Date: Janvier 2019
 - Client: XX
 - Category: Illustration
 

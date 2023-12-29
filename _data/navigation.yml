@@ -13,14 +13,14 @@ fr: &DEFAULT_FR
   nav:
     - title: "Services"
       section: services
+    - title: "Tarifs"
+      section: tarifs
     - title: "Réalisations"
       section: realisations
     - title: "A propos"
       section: apropos
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 fr-FR:
   <<: *DEFAULT_FR
 fr-CH:

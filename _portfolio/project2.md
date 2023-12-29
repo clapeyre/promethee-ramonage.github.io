@@ -7,12 +7,12 @@ alt: Insert
 caption:
   title: Insert
   subtitle: 
-  thumbnail: assets/img/portfolio/insert_2.webp
+  thumbnail: assets/img/portfolio/insert_2_th.jpg
 ---
-Une réalisation ...
+Un insert réalisé dans une cheminée existante ...
 
 {:.list-inline}
-- Date: Janvier 2017
+- Date: Janvier 2018
 - Client: XX
 - Category: Illustration
 

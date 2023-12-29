@@ -30,17 +30,29 @@ fr: &DEFAULT_FR
       - title: "Installation"
         desc: "Installation de cheminées et inserts à bois ou granulés toute gammes'"
         icon: fas fa-fire
+  
+  tarifs:
+    title: "Tarifs Ramonage"
+    text: "Coût de nos interventions TTC, déplacement inclus:"
+    section: tarifs
+    list:
+      - title: "Ramonage cheminée / insert"
+        desc: "80€"
+      - title: "Ramonage poêle à granulés"
+        desc: "160€"
+      - title: "Inspection conduit bouché ou abîmé"
+        desc: "100€"
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Voici quelques exemples de nos réalisations en installation"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Fermer"
 
   about:
     title: "A propos"
-    text: "Prométhée Ramonage, 5 ans d'expérience à votre service"
-    body: "Je m'appelle Mike Doucet, et je suis ramoneur et installateur de poêles avec 5 ans d'expérience auprès de professionnels agréées. Aujourd'hui titulaire d'un diplôme d'état, je suis installé à mon compte, et je réalise"
+    text: "Bienvenue chez Prométhée, votre spécialiste du ramonage et de l'installation de cheminées et de poêles à bois!"
+    body: "Ramoneur-fumiste agréé d'état, Mike Doucet met ses années d'expérience en temps que ramoneur et installateur à votre service. Particuliers et professionnels lui font confiance pour la pose et l'entretien de leur matériel de chauffe. Grâce à une inspection systématique de vos conduits à l'aide d'une caméra spécialisée, vous profiterez de votre installation toute l'année en parfaite sécurité."
     section: about
 
   contact:
