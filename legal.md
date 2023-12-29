@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Privacy Policy
+title: Politique de Confidentialité
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Politique de Confidentialité</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+Cette politique de confidentialité décrit la manière dont vos données sont récoltées lorsque vous visitez {{ site.title }} (le “Site”).
 
 **PERSONAL INFORMATION WE COLLECT**
 
@@ -24,14 +24,14 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
+Nous ne collectons aucune données à votre propos, ni de cookies.
 
 {% endif %}
 
-**CHANGES**
+**CHANGEMENTS**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+Nous pourrions être amenés à modifier cette politique ultérieurement pour des raisons personnelles, opérationnelles, légales ou règlementaires.
 
-**CONTACT US**
+**NOUS CONTACTER**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Pour toute question relative à nos pratiques, merci d'envoyer un mail à <a href="mailto:{{ site.email }}">{{ site.email }}</a>.

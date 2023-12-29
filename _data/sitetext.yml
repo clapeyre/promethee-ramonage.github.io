@@ -100,20 +100,19 @@ fr: &DEFAULT_FR
 
   contact:
     title: "Nous contacter"
-    text: "*Tél*: 06 46 69 61 74   -   *Mail*: contact@promethee-ramonage.fr"
+    text: ""
+    subtext: "Pour une réponse rapide:   Tél: 06 46 69 61 74   -   *Mail*: {{ site.email }}"
     section: contact
 
   footer:
     legal: "Politique de confidentialité"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
+      - url: mailto:contact@promethee-ramonage.fr
+        icon: "fab fa-envelope"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 fr-FR:
