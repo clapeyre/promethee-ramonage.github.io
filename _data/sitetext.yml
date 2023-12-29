@@ -100,18 +100,8 @@ fr: &DEFAULT_FR
 
   contact:
     title: "Nous contacter"
-    text: ""
+    text: "*Tél*: 06 46 69 61 74   -   *Mail*: contact@promethee-ramonage.fr"
     section: contact
-    name: "Nom*"
-    name-validation: "Veuillez entrer votre nom"
-    email: "Email*"
-    email-validation: "Veuillez entrer votre adresse email"
-    phone: "Téléphone"
-    phone-validation: "Veuillez entrer votre numéro de téléphone"
-    message: "Message*"
-    message-validation: "Veuillez entrer votre message"
-    subject: "Soumission du formulaire"
-    submit: "Envoyer le message"
 
   footer:
     legal: "Politique de confidentialité"

@@ -14,8 +14,8 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://clapeyre.github.io" # "promethee-ramonage.fr" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/promethee-ramonage.github.io" # the subpath of your site, e.g. /blog
+url    : "http://www.promethee-ramonage.fr" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Prométhée Ramonage
 email      : contact@promethee-ramonage.fr #this is also the email contact forms will go to
