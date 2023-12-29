@@ -1,11 +1,11 @@
 ---
-title: Insert
+title: Cheminée
 subtitle: 
 image: assets/img/portfolio/cheminee_1.webp
-alt: Insert
+alt: Cheminée
 
 caption:
-  title: Insert
+  title: Cheminée ouverte
   subtitle: 
   thumbnail: assets/img/portfolio/cheminee_1_th.jpg
 ---

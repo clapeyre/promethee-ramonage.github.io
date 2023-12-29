@@ -30,30 +30,73 @@ fr: &DEFAULT_FR
       - title: "Installation"
         desc: "Installation de cheminées et inserts à bois ou granulés toute gammes'"
         icon: fas fa-fire
-  
-  tarifs:
-    title: "Tarifs Ramonage"
-    text: "Coût de nos interventions TTC, déplacement inclus:"
-    section: tarifs
-    list:
-      - title: "Ramonage cheminée / insert"
-        desc: "80€"
-      - title: "Ramonage poêle à granulés"
-        desc: "160€"
-      - title: "Inspection conduit bouché ou abîmé"
-        desc: "100€"
 
   portfolio:
-    title: "Portfolio"
+    title: "Réalisations"
     text: "Voici quelques exemples de nos réalisations en installation"
     section: portfolio
     closebutton: "Fermer"
+
+  timeline:
+    title: "Tarifs"
+    text: "Coût de nos interventions TTC, déplacement inclus:"
+    section: timeline
+    
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Ramonage cheminée / insert"
+        year: "80€"
+        desc: "Ramonage de cheminées à foyer ouvert ou fermé, d'inserts"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Ramonage poêle à granulés"
+        year: "160€"
+        desc: "Ramonage et entretien de conduit et de poêle à granulés"
+        image: assets/img/timeline/2.jpg
+        alt:
+    end: "Certificat de ramonage inclus!"
 
   about:
     title: "A propos"
     text: "Bienvenue chez Prométhée, votre spécialiste du ramonage et de l'installation de cheminées et de poêles à bois!"
     body: "Ramoneur-fumiste agréé d'état, Mike Doucet met ses années d'expérience en temps que ramoneur et installateur à votre service. Particuliers et professionnels lui font confiance pour la pose et l'entretien de leur matériel de chauffe. Grâce à une inspection systématique de vos conduits à l'aide d'une caméra spécialisée, vous profiterez de votre installation toute l'année en parfaite sécurité."
     section: about
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "Notre équipe"
+    text: ""
+    subtext: Profitez de l'expertise de notre équipe
+    section: team
+    people:
+      - name: "Mike Doucet"
+        role: "Ramoneur-Fumiste agréé"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Nous contacter"

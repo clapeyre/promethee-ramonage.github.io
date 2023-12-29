@@ -1,11 +1,11 @@
 ---
-title: Insert
+title: Poêle à granulés
 subtitle: 
 image: assets/img/portfolio/poele_1.webp
-alt: Insert
+alt: Poêle à granulés
 
 caption:
-  title: Insert
+  title: Poêle à granulés
   subtitle: 
   thumbnail: assets/img/portfolio/poele_1_th.jpg
 ---

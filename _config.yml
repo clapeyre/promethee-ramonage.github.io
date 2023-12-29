@@ -18,7 +18,7 @@ url    : "https://clapeyre.github.io" # "promethee-ramonage.fr" # the base hostn
 baseurl: "/promethee-ramonage.github.io" # the subpath of your site, e.g. /blog
 
 title      : Prométhée Ramonage
-email      : promethee.ramonage@gmail.com #this is also the email contact forms will go to
+email      : contact@promethee-ramonage.fr #this is also the email contact forms will go to
 description: "Votre ramoneur et installateur agréé dans le Gard"
 author     : Mike Doucet
 # logo:     #optional, defaults to site title

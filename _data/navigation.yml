@@ -13,12 +13,14 @@ fr: &DEFAULT_FR
   nav:
     - title: "Services"
       section: services
-    - title: "Tarifs"
-      section: tarifs
     - title: "Réalisations"
-      section: realisations
+      section: portfolio
     - title: "A propos"
-      section: apropos
+      section: about
+    - title: "Tarifs"
+      section: timeline
+    - title: "Equipe"
+      section: team
     - title: "Contact"
       section: contact
 fr-FR:
