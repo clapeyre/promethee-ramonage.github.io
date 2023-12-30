@@ -12,7 +12,7 @@
 fr: &DEFAULT_FR
   header:
     title: Bienvenue chez Prométhée Ramonage!
-    text: Le spécialiste du ramonage et de l'installation de poêles
+    text: Ramonage et installations
     button: Découvrez nos services
     buttonlink: "#services"
 
@@ -30,12 +30,6 @@ fr: &DEFAULT_FR
       - title: "Installation"
         desc: "Installation de cheminées et inserts à bois ou granulés toute gammes'"
         icon: fas fa-fire
-
-  portfolio:
-    title: "Réalisations"
-    text: "Voici quelques exemples de nos réalisations en installation"
-    section: portfolio
-    closebutton: "Fermer"
 
   timeline:
     title: "Tarifs"
@@ -56,6 +50,13 @@ fr: &DEFAULT_FR
         image: assets/img/timeline/2.jpg
         alt:
     end: "Certificat de ramonage inclus!"
+
+
+  portfolio:
+    title: "Réalisations"
+    text: "Voici quelques exemples de nos réalisations en installation"
+    section: portfolio
+    closebutton: "Fermer"
 
   about:
     title: "A propos"
@@ -98,11 +99,12 @@ fr: &DEFAULT_FR
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  contact:
+  my_contact:
     title: "Nous contacter"
     text: ""
-    subtext: "Pour une réponse rapide:   Tél: 06 46 69 61 74   -   *Mail*: {{ site.email }}"
-    section: contact
+    body: "**Tél**: 06 46 69 61 74
+    **Mail**: {{ site.email }}"
+    section: my_contact
 
   footer:
     legal: "Politique de confidentialité"
