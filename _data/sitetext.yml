@@ -42,32 +42,42 @@ fr: &DEFAULT_FR
       - title: "Poêle à bois / insert"
         year: "80€"
         desc: ""
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/flamme1.jpg
         alt:
       - title: "Conduit seul (métallique ou pierre)"
         year: "70€"
         desc: ""
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/flamme2.jpg
         alt:
       - title: "Cuisinière à bois"
         year: "90€"
         desc: ""
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/flamme3.jpg
         alt:
       - title: "Chaudière (bois ou granulés)"
         year: "100€"
         desc: ""
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/flamme4.jpg
+        alt:
+      - title: "Chaudière gaz"
+        year: "50€"
+        desc: ""
+        image: assets/img/timeline/flamme5.jpg
+        alt:
+      - title: "Chaudière fuel"
+        year: "100€"
+        desc: ""
+        image: assets/img/timeline/flamme6.jpg
         alt:
       - title: "Poêle de Masse"
         year: "130€"
         desc: ""
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/flamme7.jpg
         alt:
       - title: "Poêle à Granulés"
         year: "160€"
         desc: ""
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/flamme8.jpg
         alt:
     end: "Certificat de ramonage inclus!"
 
@@ -130,7 +140,7 @@ fr: &DEFAULT_FR
     section: my_contact
 
   footer:
-    legal: "Politique de confidentialité"
+    legal: "Mentions légales"
     social:
       - url: mailto:contact@promethee-ramonage.fr
         icon: "fab fa-solid fa-envelope"
