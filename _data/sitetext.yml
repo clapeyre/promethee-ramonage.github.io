@@ -132,14 +132,14 @@ fr: &DEFAULT_FR
   my_contact:
     title: "Nous contacter"
     text: "Pour toute question ou pour fixer un rendez vous:"
-    body: "**Tél**: 06 46 69 61 74   -   **Mail**: contact@promethee-ramonage.fr"
+    body: "**Tél**: 06 46 69 61 74 /// **Mail**: contact@promethee-ramonage.fr"
     section: my_contact
 
   footer:
     legal: "Mentions légales"
     social:
       - url: mailto:contact@promethee-ramonage.fr
-        icon: "fab fa-solid fa-envelope"
+        icon: "fas fa-envelope"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
