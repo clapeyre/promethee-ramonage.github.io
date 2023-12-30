@@ -32,22 +32,42 @@ fr: &DEFAULT_FR
         icon: fas fa-fire
 
   timeline:
-    title: "Tarifs"
+    title: "Tarifs des ramonages"
     text: "Coût de nos interventions TTC, déplacement inclus:"
     section: timeline
     
     # left is the default
     #start_align: "left"
     events:
-      - title: "Ramonage cheminée / insert"
+      - title: "Poêle à bois / insert"
         year: "80€"
-        desc: "Ramonage de cheminées à foyer ouvert ou fermé, d'inserts"
+        desc: ""
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Ramonage poêle à granulés"
+      - title: "Conduit seul (métallique ou pierre)"
+        year: "70€"
+        desc: ""
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Cuisinière à bois"
+        year: "90€"
+        desc: ""
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Chaudière (bois ou granulés)"
+        year: "100€"
+        desc: ""
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Poêle de Masse"
+        year: "130€"
+        desc: ""
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Poêle à Granulés"
         year: "160€"
-        desc: "Ramonage et entretien de conduit et de poêle à granulés"
-        image: assets/img/timeline/2.jpg
+        desc: ""
+        image: assets/img/timeline/1.jpg
         alt:
     end: "Certificat de ramonage inclus!"
 
@@ -102,8 +122,11 @@ fr: &DEFAULT_FR
   my_contact:
     title: "Nous contacter"
     text: ""
-    body: "**Tél**: 06 46 69 61 74
-    **Mail**: {{ site.email }}"
+    body: "Nous sommes à votre disposition par téléphone ou par email. Contactez nous pour toute question ou pour fixer un rendez vous:
+    
+    **Tél**: 06 46 69 61 74
+
+    **Mail**: contact@promethee-ramonage.fr"
     section: my_contact
 
   footer:
