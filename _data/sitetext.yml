@@ -133,7 +133,7 @@ fr: &DEFAULT_FR
     legal: "Politique de confidentialité"
     social:
       - url: mailto:contact@promethee-ramonage.fr
-        icon: "fab fa-envelope"
+        icon: "fab fa-solid fa-envelope"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
