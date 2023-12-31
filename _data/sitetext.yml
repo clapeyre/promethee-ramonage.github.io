@@ -64,7 +64,7 @@ fr: &DEFAULT_FR
         desc: ""
         image: assets/img/timeline/flamme5.jpg
         alt:
-      - title: "Chaudière fuel"
+      - title: "Chaudière fioul"
         year: "100€"
         desc: ""
         image: assets/img/timeline/flamme6.jpg
