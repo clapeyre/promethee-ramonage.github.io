@@ -129,11 +129,20 @@ fr: &DEFAULT_FR
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  my_contact:
+  contact:
     title: "Nous contacter"
-    text: "Pour toute question ou pour fixer un rendez vous:"
-    body: "**Tél**: 06 46 69 61 74 /// **Mail**: contact@promethee-ramonage.fr"
-    section: my_contact
+    text: "Par téléphone au 06 46 69 61 74, ou par formulaire:"
+    name: "Nom*"
+    name-validation: "Merci d'entrer votre nom"
+    email: "Email*"
+    email-validation: "Merci d'entrer votre adresse email"
+    phone: "Téléphone*"
+    phone-validation: "Merci d'entrer un numéro de téléphone"
+    message: "Message*"
+    message-validation: "Renseignez ici toute question ou détail concernant vos besoins"
+    subject: "Contact par promethee-ramonage.fr"
+    submit: "Envoyer la demande"
+    section: contact
 
   footer:
     legal: "Mentions légales"

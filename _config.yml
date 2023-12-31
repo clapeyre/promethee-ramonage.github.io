@@ -18,7 +18,7 @@ url    : "http://www.promethee-ramonage.fr" # the base hostname & protocol for y
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Prométhée Ramonage
-email      : contact@promethee-ramonage.fr #this is also the email contact forms will go to
+email      : contact@promethee-ramonage.fr
 description: "Votre ramoneur et installateur agréé dans le Gard"
 author     : Mike Doucet
 # logo:     #optional, defaults to site title
@@ -37,7 +37,7 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+formspree_form_path: "f/xgegeobo"
 
 plugins:
   - jekyll-remote-theme
